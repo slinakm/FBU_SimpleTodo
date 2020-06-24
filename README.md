@@ -20,7 +20,7 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Toasts are shown at the top of the screen, instead of the bottom.
+* [x] Toasts are shown **at the top of the screen**, instead of the bottom.
 
 ## Video Walkthrough
 
